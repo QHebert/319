@@ -1,0 +1,9 @@
+C:\Users\Heber\source\repos\calculadoraB\calculadora\bin\Debug\netstandard1.4\calculadora.deps.json
+C:\Users\Heber\source\repos\calculadoraB\calculadora\bin\Debug\netstandard1.4\calculadora.dll
+C:\Users\Heber\source\repos\calculadoraB\calculadora\bin\Debug\netstandard1.4\calculadora.pdb
+C:\Users\Heber\source\repos\calculadoraB\calculadora\obj\Debug\netstandard1.4\calculadora.csprojAssemblyReference.cache
+C:\Users\Heber\source\repos\calculadoraB\calculadora\obj\Debug\netstandard1.4\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Heber\source\repos\calculadoraB\calculadora\obj\Debug\netstandard1.4\calculadora.AssemblyInfoInputs.cache
+C:\Users\Heber\source\repos\calculadoraB\calculadora\obj\Debug\netstandard1.4\calculadora.AssemblyInfo.cs
+C:\Users\Heber\source\repos\calculadoraB\calculadora\obj\Debug\netstandard1.4\calculadora.dll
+C:\Users\Heber\source\repos\calculadoraB\calculadora\obj\Debug\netstandard1.4\calculadora.pdb

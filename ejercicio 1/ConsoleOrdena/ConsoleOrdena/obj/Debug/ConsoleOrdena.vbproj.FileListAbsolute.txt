@@ -1,0 +1,11 @@
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\bin\Debug\ConsoleOrdena.exe.config
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\bin\Debug\ConsoleOrdena.exe
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\bin\Debug\ConsoleOrdena.pdb
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\bin\Debug\ConsoleOrdena.xml
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\obj\Debug\ConsoleOrdena.vbprojAssemblyReference.cache
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\obj\Debug\ConsoleOrdena.Resources.resources
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\obj\Debug\ConsoleOrdena.vbproj.GenerateResource.cache
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\obj\Debug\ConsoleOrdena.vbproj.CoreCompileInputs.cache
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\obj\Debug\ConsoleOrdena.exe
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\obj\Debug\ConsoleOrdena.xml
+C:\Users\Heber\source\repos\ConsoleOrdena\ConsoleOrdena\obj\Debug\ConsoleOrdena.pdb

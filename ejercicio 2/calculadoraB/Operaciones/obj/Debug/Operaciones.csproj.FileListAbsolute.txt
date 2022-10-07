@@ -1,0 +1,6 @@
+C:\Users\Heber\source\repos\calculadoraB\Operaciones\bin\Debug\Operaciones.dll
+C:\Users\Heber\source\repos\calculadoraB\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Heber\source\repos\calculadoraB\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\Heber\source\repos\calculadoraB\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Heber\source\repos\calculadoraB\Operaciones\obj\Debug\Operaciones.dll
+C:\Users\Heber\source\repos\calculadoraB\Operaciones\obj\Debug\Operaciones.pdb

@@ -1,0 +1,13 @@
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\obj\Debug\calculadoraB.csprojAssemblyReference.cache
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\obj\Debug\calculadoraB.Form1.resources
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\obj\Debug\calculadoraB.Properties.Resources.resources
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\obj\Debug\calculadoraB.csproj.GenerateResource.cache
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\obj\Debug\calculadoraB.csproj.CoreCompileInputs.cache
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\bin\Debug\calculadoraB.exe.config
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\bin\Debug\calculadoraB.exe
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\bin\Debug\calculadoraB.pdb
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\bin\Debug\Operaciones.dll
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\bin\Debug\Operaciones.pdb
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\obj\Debug\calculadoraB.csproj.CopyComplete
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\obj\Debug\calculadoraB.exe
+C:\Users\Heber\source\repos\calculadoraB\calculadoraB\obj\Debug\calculadoraB.pdb
